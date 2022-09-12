@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🌱 I’m currently learning html and css, along with C++.
+I'm a Web Develper and very keen on learning new things every single day.
+Started building projects from the very start of learning.
+Current interests: Full stack Developer / Machine learning / AI / Cyber Security.
 
 <!--
 **SarahSidAhmed/SarahSidAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
