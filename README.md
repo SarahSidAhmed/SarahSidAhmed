@@ -1,8 +1,10 @@
 ### Hi there 👋
-- 🌱 I’m currently learning html and css, along with C++.
+- 🌱 
 I'm a Web Develper and very keen on learning new things every single day.
-Started building projects from the very start of learning.
-Current interests: Full stack Developer / Machine learning / AI / Cyber Security.
+Started building projects from the very start.
+Android App Developer / Power BI Analysis Certified
+
+<h3>Check out my Porjects !!✨ </h3>
 
 <!--
 **SarahSidAhmed/SarahSidAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
