@@ -4,7 +4,9 @@ I'm a Web Develper and very keen on learning new things every single day.
 Started building projects from the very start.
 Android App Developer / Power BI Analysis Certified
 
-<h3>Check out my Porjects !!✨ </h3>
+<h3>Check out my Projects !!✨ </h3>
+
+
 
 <!--
 **SarahSidAhmed/SarahSidAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
