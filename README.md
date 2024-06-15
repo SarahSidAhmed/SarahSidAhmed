@@ -1,8 +1,7 @@
 ### Hi there 👋
 - 🌱 
-I'm a Web Develper and very keen on learning new things every single day.
-Started building projects from the very start.
-Android App Developer / Power BI Analysis Certified
+I'm a Mobile Develper specialized in Android Studio and very keen on learning new things every single day.
+Power BI Analysis Certified and Machine Learning young enthousiast 
 
 <h3>Check out my Projects !!✨ </h3>
 
