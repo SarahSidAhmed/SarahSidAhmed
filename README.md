@@ -1,4 +1,4 @@
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SarahSidAhmed&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)
+![Profile views](https://komarev.com/ghpvc/?username=SarahSidAhmed&label=Profile%20Views&color=blue&style=flat)
 
 # 💫 About Me:
 Hello there,<br><br>I'm Sarah, passionate entrepreneur and freelancer persuing my Superior studies in Computer Science and Software Engineering. Proficient in creating Mobile Application in Android Studio (Kotlin / Java) and Product Management for project analysis and tool handling.<br><br>I have prior experience in event management and mentoring students in tech topics (Python / Github / Programming Languages...etc). <br><br>I have a passion for Analysis jobs like Power BI and Python for Data Analysis, and I am a Datacamp apprenticeship and constant participant in their competitions and Hackathons.
