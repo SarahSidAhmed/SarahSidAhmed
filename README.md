@@ -27,6 +27,3 @@ Hello there,<br><br>I'm Sarah, passionate entrepreneur and freelancer persuing m
 
 <!-- START_gists -->
 <!-- END_gists -->
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
