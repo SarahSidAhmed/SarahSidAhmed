@@ -1,7 +1,7 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
 
-const username = 'your-github-username';
+const username = 'SarahSidAhmed';
 const readmePath = './README.md';
 
 async function getGists() {
