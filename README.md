@@ -75,8 +75,7 @@ I’m also deeply interested in data analysis, working with tools like Python an
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SarahSidAhmed&theme=radical&margin-w=10)
-
+![](https://github-profile-trophy.vercel.app/?username=SarahSidAhmed&theme=radical&no-frame=true&margin-w=10&margin-h=10)
 ---
 
 ## 📄 My Gists
