@@ -73,6 +73,7 @@ I’m also deeply interested in data analysis, working with tools like Python an
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahSidAhmed&layout=compact&theme=dark&langs_count=6)
 
 ---
+
 ## 📈 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SarahSidAhmed&theme=tokyo-night&hide_border=true&area=true)
 ---
